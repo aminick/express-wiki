@@ -1,0 +1,15 @@
+html,
+body {
+  min-height: 100vh;
+  /* height: 100%; */
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.layout-container {
+  padding: 1.5rem;
+}
