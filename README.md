@@ -1,4 +1,5 @@
-# Wiki Website
+# About
+This tool let you quickly create a wiki website using markdown. You can created nested pages easily using only markdown syntax. It also features real-time markdown preview as well as a history diff visualization similar to github.
 
 ## Setup
 
